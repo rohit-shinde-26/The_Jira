@@ -2,6 +2,8 @@
 Here the repo which has all about Jira Software
 <hr/>
 
+## Introduction
+
 1. What is Jira ? <br/>
 It is project management tool where you can manage overall project.
 - Track project Work status
@@ -40,3 +42,12 @@ Software developer, QA, Buisness developer, Product owner, Team manager & manage
   8. Scrum
   9. Search items (bug,story,etc...)
   10. Sprint grooming
+
+
+
+## How JIRA works
+### Project Configuration ==> Plan a version ==> Users ==> Release version  ==> Wrap up project
+
+1. Project configuration <br/> Here we set all project configuration such as set project team with their roles
+2. Pan version <br/> Set managers also set release date etc...
+3. Users <br/>  Plan Sprint, Run Sprint, End sprint
