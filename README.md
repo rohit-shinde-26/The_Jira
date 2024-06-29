@@ -59,3 +59,7 @@ Software developer, QA, Buisness developer, Product owner, Team manager & manage
 2. Choose site
 3. Select template
 4. Make project
+
+
+# Project Menu and Options
+- Note : Jira menu and project menu are different
