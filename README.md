@@ -51,3 +51,11 @@ Software developer, QA, Buisness developer, Product owner, Team manager & manage
 1. Project configuration <br/> Here we set all project configuration such as set project team with their roles
 2. Pan version <br/> Set managers also set release date etc...
 3. Users <br/>  Plan Sprint, Run Sprint, End sprint
+
+
+
+# Account Setup
+1. Create free account
+2. Choose site
+3. Select template
+4. Make project
