@@ -41,3 +41,22 @@ It has 3 roles
   
 3. Development team
    - It is group of person who help to work to deliver a project
+
+
+### 3. Backlog
+
+
+### 4. Scrum ceremonies
+   1. Sprint planning
+      - Before the sprint starts a scope is decided in this meeting for the sprint. This is meeting which finalises the sprint backlog and sprint goal.
+     
+   2. Daily stand up
+      - Team has meeting everyday for maximum of 15 minutes to discuss what they did yesterday, plans for today and if there are any impediments.
+      - Also, at the end of the day each team member should update the remaining work on the tasks they are working on.
+     
+   3. Sprint review
+      - Once the sprint is ended only the completed user stories are delivered.
+      - A review meeting is held to approve the deliverable this meeting is termed as sprint review meeting.
+     
+   4. Sprint retrospection
+      - Finally, team does a retrospection meeting to discuss what went well and what needs improvement.
