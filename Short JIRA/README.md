@@ -60,3 +60,9 @@ It has 3 roles
      
    4. Sprint retrospection
       - Finally, team does a retrospection meeting to discuss what went well and what needs improvement.
+
+
+# Live Project
+1. Create project
+2. Create sprint
+3. add backlogs such as task, bug, story, epic
